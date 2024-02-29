@@ -1,3 +1,0 @@
-﻿  StringData.cpp
-C:\Users\muham\OneDrive\Desktop\C++\MoveSemantics\MoveSemantics\StringData.cpp(7,20): warning C4267: '=': conversion from 'size_t' to 'uint32_t', possible loss of data
-  MoveSemantics.vcxproj -> C:\Users\muham\OneDrive\Desktop\C++\MoveSemantics\x64\Debug\MoveSemantics.exe
